@@ -1,0 +1,14 @@
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\bin\Debug\SortedList.exe.config
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\bin\Debug\SortedList.exe
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\bin\Debug\SortedList.pdb
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\obj\Debug\SortedList.csprojResolveAssemblyReference.cache
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\obj\Debug\MainWindow.g.cs
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\obj\Debug\App.g.cs
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\obj\Debug\SortedList_MarkupCompile.cache
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\obj\Debug\SortedList_MarkupCompile.lref
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\obj\Debug\MainWindow.baml
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\obj\Debug\SortedList.g.resources
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\obj\Debug\SortedList.Properties.Resources.resources
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\obj\Debug\SortedList.csproj.GenerateResource.Cache
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\obj\Debug\SortedList.exe
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\SortedList\SortedList\obj\Debug\SortedList.pdb
